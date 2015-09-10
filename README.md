@@ -1,2 +1,3 @@
-# graylog-mpproxy-hubottranscript
-Log all Hubot chat messages to Graylog
+This is a Marketplace placeholder for a community GELF library that has not been submitted by the user.
+
+Follow this link to reach the GELF library: https://github.com/spajus/hubot-graylog-transcript
